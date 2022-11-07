@@ -1,5 +1,6 @@
 # Spotify
 
+Cree otra readme por error, pero aqui dejo el link tambien: https://drive.google.com/file/d/10MQpmtARsTLsglF239yjgbPUNUoDQHJg/view
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
 
 ## Development server
